@@ -1,0 +1,15 @@
+{
+  "name": "raml-loader",
+  "version": "0.0.1",
+  "description": "RAML loader for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensourcecu/raml-loader.git"
+  },
+  "author": "Matt Dean @trabianmatt",
+  "license": "MIT",
+  "dependencies": {
+    "raml-parser": "^0.8.11"
+  }
+}
